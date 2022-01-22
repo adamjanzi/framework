@@ -1,7 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\HelloWorldController;
+use App\Http\Controllers\WelcomeController;
+use App\Http\Controllers\DiceController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -13,19 +14,9 @@ use App\Http\Controllers\HelloWorldController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [WelcomeController::class, 'view']);
 
-
-// Added for mos example code
-Route::get('/hello-world', function () {
-    echo "Hello World";
+Route::controller(DiceController::class)->group(function () {
+    Route::get('/dice', 'view');
+    Route::post('/dice/process', 'process');
 });
-Route::get('/hello-world-view', function () {
-    return view('message', [
-        'message' => "Hello World from within a view"
-    ]);
-});
-Route::get('/hello', [HelloWorldController::class, 'hello']);
-Route::get('/hello/{message}', [HelloWorldController::class, 'hello']);

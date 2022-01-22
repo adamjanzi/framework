@@ -52,4 +52,9 @@ $app->singleton(
 |
 */
 
+if (php_sapi_name() !== "cli") {
+    session_name(preg_replace("/[^a-z\d]/i", "", __DIR__));
+    session_start();
+}
+
 return $app;
