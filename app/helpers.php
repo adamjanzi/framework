@@ -3,6 +3,7 @@
 declare(strict_types=1);
 
 namespace App\Functions;
+
 define("INSTALL_PATH", realpath(__DIR__ . "/.."));
 
 /**

@@ -1,0 +1,274 @@
+
+FILE: /Users/adamskiboi/dbwebb-kurser/mvc/me/framework/app/coverage/_js/file.js
+--------------------------------------------------------------------------------
+FOUND 41 ERRORS AFFECTING 38 LINES
+--------------------------------------------------------------------------------
+  1 | ERROR | [x] Expected 1 space after FUNCTION keyword; 0 found
+  2 | ERROR | [x] Line indented incorrectly; expected at least 4 spaces, found
+    |       |     3
+ 10 | ERROR | [x] Line indented incorrectly; expected 12 spaces, found 9
+ 11 | ERROR | [x] Line indented incorrectly; expected at least 16 spaces, found
+    |       |     10
+ 12 | ERROR | [x] Line indented incorrectly; expected 12 spaces, found 9
+ 16 | ERROR | [x] Line indented incorrectly; expected at least 4 spaces, found
+    |       |     3
+ 16 | ERROR | [x] Expected 1 space after FUNCTION keyword; 0 found
+ 17 | ERROR | [x] Line indented incorrectly; expected at least 8 spaces, found
+    |       |     4
+ 18 | ERROR | [x] Line indented incorrectly; expected at least 8 spaces, found
+    |       |     4
+ 19 | ERROR | [x] Line indented incorrectly; expected 4 spaces, found 3
+ 21 | ERROR | [x] Line indented incorrectly; expected at least 4 spaces, found
+    |       |     3
+ 21 | ERROR | [x] Expected 1 space after FUNCTION keyword; 0 found
+ 22 | ERROR | [x] Line indented incorrectly; expected 8 spaces, found 4
+ 22 | ERROR | [x] Expected 1 space(s) after IF keyword; 0 found
+ 23 | ERROR | [x] Line indented incorrectly; expected at least 12 spaces, found
+    |       |     5
+ 24 | ERROR | [x] Line indented incorrectly; expected 8 spaces, found 4
+ 25 | ERROR | [x] Line indented incorrectly; expected at least 12 spaces, found
+    |       |     5
+ 26 | ERROR | [x] Line indented incorrectly; expected 8 spaces, found 4
+ 27 | ERROR | [x] Line indented incorrectly; expected 4 spaces, found 3
+ 29 | ERROR | [x] Line indented incorrectly; expected at least 4 spaces, found
+    |       |     3
+ 32 | ERROR | [x] Line indented incorrectly; expected 8 spaces, found 5
+ 33 | ERROR | [x] Line indented incorrectly; expected at least 12 spaces, found
+    |       |     6
+ 34 | ERROR | [x] Line indented incorrectly; expected at least 12 spaces, found
+    |       |     6
+ 36 | ERROR | [x] Line indented incorrectly; expected at least 12 spaces, found
+    |       |     6
+ 39 | ERROR | [x] Line indented incorrectly; expected 12 spaces, found 6
+ 40 | ERROR | [x] Line indented incorrectly; expected at least 16 spaces, found
+    |       |     7
+ 41 | ERROR | [x] Line indented incorrectly; expected 12 spaces, found 6
+ 44 | ERROR | [x] Line indented incorrectly; expected at least 12 spaces, found
+    |       |     6
+ 47 | ERROR | [x] Line indented incorrectly; expected at least 12 spaces, found
+    |       |     6
+ 48 | ERROR | [x] Line indented incorrectly; expected at least 12 spaces, found
+    |       |     7
+ 49 | ERROR | [x] Line indented incorrectly; expected 16 spaces, found 8
+ 50 | ERROR | [x] Line indented incorrectly; expected at least 20 spaces, found
+    |       |     9
+ 51 | ERROR | [x] Line indented incorrectly; expected 16 spaces, found 8
+ 53 | ERROR | [x] Line indented incorrectly; expected at least 16 spaces, found
+    |       |     13
+ 55 | ERROR | [x] Line indented incorrectly; expected at least 12 spaces, found
+    |       |     7
+ 56 | ERROR | [x] Line indented incorrectly; expected at least 12 spaces, found
+    |       |     7
+ 57 | ERROR | [x] Line indented incorrectly; expected 8 spaces, found 5
+ 58 | ERROR | [x] Line indented incorrectly; expected 8 spaces, found 5
+ 59 | ERROR | [x] Line indented incorrectly; expected at least 12 spaces, found
+    |       |     6
+ 60 | ERROR | [x] Line indented incorrectly; expected 8 spaces, found 5
+ 62 | ERROR | [x] Line indented incorrectly; expected 0 spaces, found 2
+--------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 41 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------
+
+
+FILE: ...framework/app/database/migrations/2014_10_12_000000_create_users_table.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 7 | ERROR | Each class must be in a namespace of at least one level (a
+   |       | top-level vendor name)
+--------------------------------------------------------------------------------
+
+
+FILE: ...app/database/migrations/2014_10_12_100000_create_password_resets_table.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 7 | ERROR | Each class must be in a namespace of at least one level (a
+   |       | top-level vendor name)
+--------------------------------------------------------------------------------
+
+
+FILE: ...ork/app/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 7 | ERROR | Each class must be in a namespace of at least one level (a
+   |       | top-level vendor name)
+--------------------------------------------------------------------------------
+
+
+FILE: ...abase/migrations/2019_12_14_000001_create_personal_access_tokens_table.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 7 | ERROR | Each class must be in a namespace of at least one level (a
+   |       | top-level vendor name)
+--------------------------------------------------------------------------------
+
+
+FILE: ...skiboi/dbwebb-kurser/mvc/me/framework/app/resources/views/game21.blade.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 4 | ERROR | The file header must be the first content in the file
+--------------------------------------------------------------------------------
+
+
+FILE: ...bwebb-kurser/mvc/me/framework/app/resources/views/game21computer.blade.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 4 | ERROR | The file header must be the first content in the file
+--------------------------------------------------------------------------------
+
+
+FILE: ...mskiboi/dbwebb-kurser/mvc/me/framework/app/resources/views/yatzy.blade.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 4 | ERROR | The file header must be the first content in the file
+--------------------------------------------------------------------------------
+
+
+FILE: ...k/app/storage/framework/views/07c025916c65282763e0f32a9ce15f1ae58cbdfd.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 55 | ERROR | [ ] The file header must be the first content in the file
+ 55 | ERROR | [x] Header blocks must be separated by a single blank line
+ 55 | ERROR | [x] Header blocks must be separated by a single blank line
+--------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------
+
+
+FILE: ...k/app/storage/framework/views/17fd2c1f7a86f121c44ae62b582f6c8a1dd91c4d.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 8 | ERROR | [ ] The file header must be the first content in the file
+ 8 | ERROR | [x] Header blocks must be separated by a single blank line
+ 8 | ERROR | [x] Header blocks must be separated by a single blank line
+--------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------
+
+
+FILE: ...k/app/storage/framework/views/31036bf7d37236d66493fd143f24883d25cd604e.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 4 | ERROR | The file header must be the first content in the file
+--------------------------------------------------------------------------------
+
+
+FILE: ...k/app/storage/framework/views/3468264fc1bcf826159808365c09502a958276a9.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 55 | ERROR | [ ] The file header must be the first content in the file
+ 55 | ERROR | [x] Header blocks must be separated by a single blank line
+ 55 | ERROR | [x] Header blocks must be separated by a single blank line
+--------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------
+
+
+FILE: ...k/app/storage/framework/views/367892683d409f75d3ec0875b9d491d734be17d0.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 39 | ERROR | [ ] The file header must be the first content in the file
+ 39 | ERROR | [x] Header blocks must be separated by a single blank line
+ 39 | ERROR | [x] Header blocks must be separated by a single blank line
+--------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------
+
+
+FILE: ...k/app/storage/framework/views/56e7a97e4fe6d4745a3a1665153cc602dfc6627a.php
+--------------------------------------------------------------------------------
+FOUND 3 ERRORS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 8 | ERROR | [ ] The file header must be the first content in the file
+ 8 | ERROR | [x] Header blocks must be separated by a single blank line
+ 8 | ERROR | [x] Header blocks must be separated by a single blank line
+--------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 2 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------
+
+
+FILE: ...k/app/storage/framework/views/865edf0b16da7997531e67553ae7225fe69f8266.php
+--------------------------------------------------------------------------------
+FOUND 4 ERRORS AFFECTING 2 LINES
+--------------------------------------------------------------------------------
+  1 | ERROR | [x] Expected 0 spaces before closing parenthesis; 1 found
+ 11 | ERROR | [ ] The file header must be the first content in the file
+ 11 | ERROR | [x] Header blocks must be separated by a single blank line
+ 11 | ERROR | [x] Header blocks must be separated by a single blank line
+--------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------
+
+
+FILE: ...k/app/storage/framework/views/8faf95e002224fa6cc56e00ae45fe1039cd848bb.php
+--------------------------------------------------------------------------------
+FOUND 4 ERRORS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 5 | ERROR | [ ] The file header must be the first content in the file
+ 5 | ERROR | [x] Header blocks must be separated by a single blank line
+ 5 | ERROR | [x] Header blocks must be separated by a single blank line
+ 5 | ERROR | [x] A closing tag is not permitted at the end of a PHP file
+--------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------
+
+
+FILE: ...k/app/storage/framework/views/90eb0cd49760708720ab7067e565c99d8ac48107.php
+--------------------------------------------------------------------------------
+FOUND 4 ERRORS AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 5 | ERROR | [ ] The file header must be the first content in the file
+ 5 | ERROR | [x] Header blocks must be separated by a single blank line
+ 5 | ERROR | [x] Header blocks must be separated by a single blank line
+ 5 | ERROR | [x] A closing tag is not permitted at the end of a PHP file
+--------------------------------------------------------------------------------
+PHPCBF CAN FIX THE 3 MARKED SNIFF VIOLATIONS AUTOMATICALLY
+--------------------------------------------------------------------------------
+
+
+FILE: ...k/app/storage/framework/views/9717165a3d41aab331b48af33af5e8a318cd2220.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 4 | ERROR | The file header must be the first content in the file
+--------------------------------------------------------------------------------
+
+
+FILE: ...k/app/storage/framework/views/e353a843e0d292746d4278dbcd71551084af509f.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 4 | ERROR | The file header must be the first content in the file
+--------------------------------------------------------------------------------
+
+
+FILE: ...damskiboi/dbwebb-kurser/mvc/me/framework/app/tests/Feature/ExampleTest.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 15 | ERROR | Method name "ExampleTest::test_example" is not in camel caps
+    |       | format
+--------------------------------------------------------------------------------
+
+
+FILE: ...s/adamskiboi/dbwebb-kurser/mvc/me/framework/app/tests/Unit/ExampleTest.php
+--------------------------------------------------------------------------------
+FOUND 1 ERROR AFFECTING 1 LINE
+--------------------------------------------------------------------------------
+ 14 | ERROR | Method name "ExampleTest::test_example" is not in camel caps
+    |       | format
+--------------------------------------------------------------------------------
+
+Time: 6.68 secs; Memory: 10MB
+

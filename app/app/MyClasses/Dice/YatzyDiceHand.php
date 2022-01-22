@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Adja20\Dice;
+namespace App\MyClasses\Dice;
 
 /**
  * Class YatzyDiceHand.
@@ -144,7 +144,7 @@ class YatzyDiceHand
         $checkboxStatus = "enabled";
         if ($index == 6 || $queue == 3) {
             $checkboxStatus = "disabled";
-        } else if ($index != 6 && $queue != 3){
+        } else if ($index != 6 && $queue != 3) {
             $checkboxStatus = "enabled";
         }
 

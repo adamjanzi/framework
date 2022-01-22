@@ -2,13 +2,13 @@
 
 declare(strict_types=1);
 
-namespace Adja20\Dice;
+namespace App\MyClasses\Dice;
 
-use Adja20\Dice\Dice;
-use Adja20\Dice\GraphicalDice;
-use Adja20\Dice\YatzyDiceHand;
+use App\MyClasses\Dice\Dice;
+use App\MyClasses\Dice\GraphicalDice;
+use App\MyClasses\Dice\YatzyDiceHand;
 
-use function Adja20\Functions\{
+use function App\Functions\{
     renderView,
     url
 };
